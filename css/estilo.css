@@ -1,0 +1,17 @@
+.header
+{
+    background-color: cadetblue;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 2%;
+
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
